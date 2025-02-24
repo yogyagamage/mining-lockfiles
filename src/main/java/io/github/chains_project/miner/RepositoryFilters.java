@@ -50,7 +50,7 @@ public class RepositoryFilters {
 
             boolean hasGo = false, hasGradle = false, hasNpm = false, hasYarn = false, hasPipEnv = false, hasRubyGems = false,
                     hasHelm = false, hasComposer = false, hasNuGet = false, hasBower = false, hasCargo = false,
-                    hasPoetry = false, hasGo = false;
+                    hasPoetry = false;
             boolean hasGoSum = false, hasGradleLock = false, hasNpmLock = false, hasYarnLock = false, hasPipEnvLock = false,
                     hasRubyGemsLock = false, hasHelmLock = false, hasComposerLock = false, hasNuGetLock = false,
                     hasBowerLock = false, hasCargoLock = false, hasShrinkwrap = false, hasPnpmLock = false,

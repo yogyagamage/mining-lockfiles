@@ -130,7 +130,7 @@ public class GitHubMiner {
             throws IOException {
         return tokenQueue.getGitHub(httpConnector).searchRepositories()
                 .fork(GHFork.PARENT_ONLY)
-                .language("Python")
+                .language("Go")
                 .stars(">=" + minNumberOfStars)
                 .created(creationDate.toString())
                 .sort(GHRepositorySearchBuilder.Sort.STARS)
