@@ -1,0 +1,2846 @@
+{
+  "souzatharsis/podcastfy": {
+    "url": "https://api.github.com/repos/souzatharsis/podcastfy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 36
+  },
+  "skodaconnect/homeassistant-myskoda": {
+    "url": "https://api.github.com/repos/skodaconnect/homeassistant-myskoda",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "sirocco-ventures/raggenie": {
+    "url": "https://api.github.com/repos/sirocco-ventures/raggenie",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 164
+  },
+  "MadcowD/ell": {
+    "url": "https://api.github.com/repos/MadcowD/ell",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "ucbepic/docetl": {
+    "url": "https://api.github.com/repos/ucbepic/docetl",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 28
+  },
+  "LazyAGI/LazyLLM": {
+    "url": "https://api.github.com/repos/LazyAGI/LazyLLM",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 70
+  },
+  "ulab-uiuc/research-town": {
+    "url": "https://api.github.com/repos/ulab-uiuc/research-town",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 24
+  },
+  "aurelio-labs/semantic-chunkers": {
+    "url": "https://api.github.com/repos/aurelio-labs/semantic-chunkers",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "antgroup/agentUniverse": {
+    "url": "https://api.github.com/repos/antgroup/agentUniverse",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 42
+  },
+  "SylphAI-Inc/AdalFlow": {
+    "url": "https://api.github.com/repos/SylphAI-Inc/AdalFlow",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "Snowflake-Labs/semantic-model-generator": {
+    "url": "https://api.github.com/repos/Snowflake-Labs/semantic-model-generator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "Cloud-Code-AI/kaizen": {
+    "url": "https://api.github.com/repos/Cloud-Code-AI/kaizen",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 38
+  },
+  "TheAgentCompany/TheAgentCompany": {
+    "url": "https://api.github.com/repos/TheAgentCompany/TheAgentCompany",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "Aivis-Project/AivisSpeech-Engine": {
+    "url": "https://api.github.com/repos/Aivis-Project/AivisSpeech-Engine",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 22
+  },
+  "Skyvern-AI/skyvern": {
+    "url": "https://api.github.com/repos/Skyvern-AI/skyvern",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "lavague-ai/LaVague": {
+    "url": "https://api.github.com/repos/lavague-ai/LaVague",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "landing-ai/vision-agent": {
+    "url": "https://api.github.com/repos/landing-ai/vision-agent",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 27
+  },
+  "huggingface/lerobot": {
+    "url": "https://api.github.com/repos/huggingface/lerobot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "VikParuchuri/surya": {
+    "url": "https://api.github.com/repos/VikParuchuri/surya",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "macrocosm-os/prompting": {
+    "url": "https://api.github.com/repos/macrocosm-os/prompting",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 40
+  },
+  "igorbenav/fastcrud": {
+    "url": "https://api.github.com/repos/igorbenav/fastcrud",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 22
+  },
+  "aiverify-foundation/moonshot": {
+    "url": "https://api.github.com/repos/aiverify-foundation/moonshot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "pieces-app/cli-agent": {
+    "url": "https://api.github.com/repos/pieces-app/cli-agent",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "rivenmedia/riven": {
+    "url": "https://api.github.com/repos/rivenmedia/riven",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "allthingslinux/tux": {
+    "url": "https://api.github.com/repos/allthingslinux/tux",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "MeoProject/lx-music-api-server": {
+    "url": "https://api.github.com/repos/MeoProject/lx-music-api-server",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "mlcommons/modelbench": {
+    "url": "https://api.github.com/repos/mlcommons/modelbench",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "talkdai/dialog": {
+    "url": "https://api.github.com/repos/talkdai/dialog",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "datastax/ragstack-ai": {
+    "url": "https://api.github.com/repos/datastax/ragstack-ai",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "sb-ai-lab/HypEx": {
+    "url": "https://api.github.com/repos/sb-ai-lab/HypEx",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "Aleph-Alpha/intelligence-layer-sdk": {
+    "url": "https://api.github.com/repos/Aleph-Alpha/intelligence-layer-sdk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "TonicAI/tonic_validate": {
+    "url": "https://api.github.com/repos/TonicAI/tonic_validate",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "openfoodfacts/open-prices": {
+    "url": "https://api.github.com/repos/openfoodfacts/open-prices",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "llm-jp/llm-jp-eval": {
+    "url": "https://api.github.com/repos/llm-jp/llm-jp-eval",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "letta-ai/letta": {
+    "url": "https://api.github.com/repos/letta-ai/letta",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "fixie-ai/ai-benchmarks": {
+    "url": "https://api.github.com/repos/fixie-ai/ai-benchmarks",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "datalens-tech/datalens-backend": {
+    "url": "https://api.github.com/repos/datalens-tech/datalens-backend",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "Unstructured-IO/unstructured-python-client": {
+    "url": "https://api.github.com/repos/Unstructured-IO/unstructured-python-client",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "HumanSignal/Adala": {
+    "url": "https://api.github.com/repos/HumanSignal/Adala",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "Pythagora-io/gpt-pilot": {
+    "url": "https://api.github.com/repos/Pythagora-io/gpt-pilot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "mikey0000/Mammotion-HA": {
+    "url": "https://api.github.com/repos/mikey0000/Mammotion-HA",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "RussianInvestments/invest-python": {
+    "url": "https://api.github.com/repos/RussianInvestments/invest-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "apache/iceberg-python": {
+    "url": "https://api.github.com/repos/apache/iceberg-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "aigc-apps/PAI-RAG": {
+    "url": "https://api.github.com/repos/aigc-apps/PAI-RAG",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 39
+  },
+  "pinecone-io/canopy": {
+    "url": "https://api.github.com/repos/pinecone-io/canopy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "TreyWW/MyFinances": {
+    "url": "https://api.github.com/repos/TreyWW/MyFinances",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "opensource-observer/oss-directory": {
+    "url": "https://api.github.com/repos/opensource-observer/oss-directory",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "TensorOpsAI/LLMstudio": {
+    "url": "https://api.github.com/repos/TensorOpsAI/LLMstudio",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "basetenlabs/truss-examples": {
+    "url": "https://api.github.com/repos/basetenlabs/truss-examples",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "langfuse/langfuse-python": {
+    "url": "https://api.github.com/repos/langfuse/langfuse-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "qdrant/fastembed": {
+    "url": "https://api.github.com/repos/qdrant/fastembed",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "dunossauro/fastapi-do-zero": {
+    "url": "https://api.github.com/repos/dunossauro/fastapi-do-zero",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "deepmodeling/DeePTB": {
+    "url": "https://api.github.com/repos/deepmodeling/DeePTB",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 23
+  },
+  "aryn-ai/sycamore": {
+    "url": "https://api.github.com/repos/aryn-ai/sycamore",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "Bunsly/JobSpy": {
+    "url": "https://api.github.com/repos/Bunsly/JobSpy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "JakobGM/patito": {
+    "url": "https://api.github.com/repos/JakobGM/patito",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "Azure-Samples/jp-azureopenai-samples": {
+    "url": "https://api.github.com/repos/Azure-Samples/jp-azureopenai-samples",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "mem0ai/mem0": {
+    "url": "https://api.github.com/repos/mem0ai/mem0",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "kantord/SeaGOAT": {
+    "url": "https://api.github.com/repos/kantord/SeaGOAT",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 22
+  },
+  "Azure-Samples/chat-with-your-data-solution-accelerator": {
+    "url": "https://api.github.com/repos/Azure-Samples/chat-with-your-data-solution-accelerator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "aws/aws-advanced-python-wrapper": {
+    "url": "https://api.github.com/repos/aws/aws-advanced-python-wrapper",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "port-labs/ocean": {
+    "url": "https://api.github.com/repos/port-labs/ocean",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "assafelovic/gpt-researcher": {
+    "url": "https://api.github.com/repos/assafelovic/gpt-researcher",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 29
+  },
+  "IBM/ibm-generative-ai": {
+    "url": "https://api.github.com/repos/IBM/ibm-generative-ai",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "landing-ai/landingai-python": {
+    "url": "https://api.github.com/repos/landing-ai/landingai-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "zylon-ai/private-gpt": {
+    "url": "https://api.github.com/repos/zylon-ai/private-gpt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "tconbeer/harlequin": {
+    "url": "https://api.github.com/repos/tconbeer/harlequin",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "gpt-engineer-org/gpt-engineer": {
+    "url": "https://api.github.com/repos/gpt-engineer-org/gpt-engineer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 20
+  },
+  "moraroy/NonSteamLaunchers-On-Steam-Deck": {
+    "url": "https://api.github.com/repos/moraroy/NonSteamLaunchers-On-Steam-Deck",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "hyprland-community/pyprland": {
+    "url": "https://api.github.com/repos/hyprland-community/pyprland",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "Sinaptik-AI/pandas-ai": {
+    "url": "https://api.github.com/repos/Sinaptik-AI/pandas-ai",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "lidofinance/diffyscan": {
+    "url": "https://api.github.com/repos/lidofinance/diffyscan",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "NeuroBench/neurobench": {
+    "url": "https://api.github.com/repos/NeuroBench/neurobench",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "OpenAdaptAI/OpenAdapt": {
+    "url": "https://api.github.com/repos/OpenAdaptAI/OpenAdapt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "scikit-fingerprints/scikit-fingerprints": {
+    "url": "https://api.github.com/repos/scikit-fingerprints/scikit-fingerprints",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "lichess-org/berserk": {
+    "url": "https://api.github.com/repos/lichess-org/berserk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "togethercomputer/together-python": {
+    "url": "https://api.github.com/repos/togethercomputer/together-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "RVC-Project/Retrieval-based-Voice-Conversion-WebUI": {
+    "url": "https://api.github.com/repos/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 51
+  },
+  "runtimeverification/kontrol": {
+    "url": "https://api.github.com/repos/runtimeverification/kontrol",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "voicepaw/so-vits-svc-fork": {
+    "url": "https://api.github.com/repos/voicepaw/so-vits-svc-fork",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 29
+  },
+  "infosecB/LOOBins": {
+    "url": "https://api.github.com/repos/infosecB/LOOBins",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "RunestoneInteractive/rs": {
+    "url": "https://api.github.com/repos/RunestoneInteractive/rs",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "AgileRL/AgileRL": {
+    "url": "https://api.github.com/repos/AgileRL/AgileRL",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "vocodedev/vocode-core": {
+    "url": "https://api.github.com/repos/vocodedev/vocode-core",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 22
+  },
+  "robusta-dev/krr": {
+    "url": "https://api.github.com/repos/robusta-dev/krr",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "dodid/minitrade": {
+    "url": "https://api.github.com/repos/dodid/minitrade",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "humbertogontijo/python-roborock": {
+    "url": "https://api.github.com/repos/humbertogontijo/python-roborock",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "MemeCrafters/meme-generator": {
+    "url": "https://api.github.com/repos/MemeCrafters/meme-generator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "keephq/keep": {
+    "url": "https://api.github.com/repos/keephq/keep",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 89
+  },
+  "KroMiose/nonebot_plugin_naturel_gpt": {
+    "url": "https://api.github.com/repos/KroMiose/nonebot_plugin_naturel_gpt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "efabless/openlane2": {
+    "url": "https://api.github.com/repos/efabless/openlane2",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "Genshin-bots/gsuid_core": {
+    "url": "https://api.github.com/repos/Genshin-bots/gsuid_core",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "MagnivOrg/prompt-layer-library": {
+    "url": "https://api.github.com/repos/MagnivOrg/prompt-layer-library",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "ServiceNow/geo-bench": {
+    "url": "https://api.github.com/repos/ServiceNow/geo-bench",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 23
+  },
+  "anchore/vunnel": {
+    "url": "https://api.github.com/repos/anchore/vunnel",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "MarshalX/atproto": {
+    "url": "https://api.github.com/repos/MarshalX/atproto",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "algorandfoundation/algokit-cli": {
+    "url": "https://api.github.com/repos/algorandfoundation/algokit-cli",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "caksoylar/keymap-drawer": {
+    "url": "https://api.github.com/repos/caksoylar/keymap-drawer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "TencentBlueKing/blueking-paas": {
+    "url": "https://api.github.com/repos/TencentBlueKing/blueking-paas",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "unixorn/ha-mqtt-discoverable": {
+    "url": "https://api.github.com/repos/unixorn/ha-mqtt-discoverable",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "django-commons/django-fsm-2": {
+    "url": "https://api.github.com/repos/django-commons/django-fsm-2",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "opendatalab/labelU": {
+    "url": "https://api.github.com/repos/opendatalab/labelU",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "chidiwilliams/buzz": {
+    "url": "https://api.github.com/repos/chidiwilliams/buzz",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "aerleon/aerleon": {
+    "url": "https://api.github.com/repos/aerleon/aerleon",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "cashubtc/nutshell": {
+    "url": "https://api.github.com/repos/cashubtc/nutshell",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "kbialek/deye-inverter-mqtt": {
+    "url": "https://api.github.com/repos/kbialek/deye-inverter-mqtt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "Bluetooth-Devices/dbus-fast": {
+    "url": "https://api.github.com/repos/Bluetooth-Devices/dbus-fast",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "Ballsdex-Team/BallsDex-DiscordBot": {
+    "url": "https://api.github.com/repos/Ballsdex-Team/BallsDex-DiscordBot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "TransformerLensOrg/TransformerLens": {
+    "url": "https://api.github.com/repos/TransformerLensOrg/TransformerLens",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "arnaudmiribel/streamlit-extras": {
+    "url": "https://api.github.com/repos/arnaudmiribel/streamlit-extras",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 20
+  },
+  "a16z/farcaster-py": {
+    "url": "https://api.github.com/repos/a16z/farcaster-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "flathub-infra/flatpak-builder-lint": {
+    "url": "https://api.github.com/repos/flathub-infra/flatpak-builder-lint",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "petereon/beaupy": {
+    "url": "https://api.github.com/repos/petereon/beaupy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "Ljzd-PRO/nonebot-plugin-mystool": {
+    "url": "https://api.github.com/repos/Ljzd-PRO/nonebot-plugin-mystool",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "gridstatus/gridstatus": {
+    "url": "https://api.github.com/repos/gridstatus/gridstatus",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "splunk/contentctl": {
+    "url": "https://api.github.com/repos/splunk/contentctl",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "dosisod/refurb": {
+    "url": "https://api.github.com/repos/dosisod/refurb",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "taskiq-python/taskiq": {
+    "url": "https://api.github.com/repos/taskiq-python/taskiq",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "qdrant/vector-db-benchmark": {
+    "url": "https://api.github.com/repos/qdrant/vector-db-benchmark",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "yanyongyu/githubkit": {
+    "url": "https://api.github.com/repos/yanyongyu/githubkit",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "basetenlabs/truss": {
+    "url": "https://api.github.com/repos/basetenlabs/truss",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "algorandfoundation/beaker": {
+    "url": "https://api.github.com/repos/algorandfoundation/beaker",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "Roche/foxops": {
+    "url": "https://api.github.com/repos/Roche/foxops",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "DataDog/guarddog": {
+    "url": "https://api.github.com/repos/DataDog/guarddog",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "grai-io/grai-core": {
+    "url": "https://api.github.com/repos/grai-io/grai-core",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "openandroidinstaller-dev/openandroidinstaller": {
+    "url": "https://api.github.com/repos/openandroidinstaller-dev/openandroidinstaller",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "DS4SD/deepsearch-toolkit": {
+    "url": "https://api.github.com/repos/DS4SD/deepsearch-toolkit",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "arthurio/fastapi-filter": {
+    "url": "https://api.github.com/repos/arthurio/fastapi-filter",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 31
+  },
+  "CentML/DeepView.Profile": {
+    "url": "https://api.github.com/repos/CentML/DeepView.Profile",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "descope/python-sdk": {
+    "url": "https://api.github.com/repos/descope/python-sdk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "groundlight/python-sdk": {
+    "url": "https://api.github.com/repos/groundlight/python-sdk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "dapper91/pydantic-xml": {
+    "url": "https://api.github.com/repos/dapper91/pydantic-xml",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "pandas-dev/pandas-stubs": {
+    "url": "https://api.github.com/repos/pandas-dev/pandas-stubs",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "dooit-org/dooit": {
+    "url": "https://api.github.com/repos/dooit-org/dooit",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "sb-ai-lab/LightAutoML": {
+    "url": "https://api.github.com/repos/sb-ai-lab/LightAutoML",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "DontShaveTheYak/cf2tf": {
+    "url": "https://api.github.com/repos/DontShaveTheYak/cf2tf",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "cunla/fakeredis-py": {
+    "url": "https://api.github.com/repos/cunla/fakeredis-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "INCATools/ontology-access-kit": {
+    "url": "https://api.github.com/repos/INCATools/ontology-access-kit",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 50
+  },
+  "google-research/perch": {
+    "url": "https://api.github.com/repos/google-research/perch",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "mblackgeo/flask-cognito-lib": {
+    "url": "https://api.github.com/repos/mblackgeo/flask-cognito-lib",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "CMHopeSunshine/LittlePaimon": {
+    "url": "https://api.github.com/repos/CMHopeSunshine/LittlePaimon",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "ServiceNow/azimuth": {
+    "url": "https://api.github.com/repos/ServiceNow/azimuth",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 36
+  },
+  "VectorInstitute/cyclops": {
+    "url": "https://api.github.com/repos/VectorInstitute/cyclops",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "alpacahq/alpaca-py": {
+    "url": "https://api.github.com/repos/alpacahq/alpaca-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "writer/writer-framework": {
+    "url": "https://api.github.com/repos/writer/writer-framework",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "py-mine/mcstatus": {
+    "url": "https://api.github.com/repos/py-mine/mcstatus",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "probberechts/soccerdata": {
+    "url": "https://api.github.com/repos/probberechts/soccerdata",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "kraanzu/smassh": {
+    "url": "https://api.github.com/repos/kraanzu/smassh",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "NannyML/nannyml": {
+    "url": "https://api.github.com/repos/NannyML/nannyml",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 22
+  },
+  "ibis-project/ibis-substrait": {
+    "url": "https://api.github.com/repos/ibis-project/ibis-substrait",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "drift-labs/driftpy": {
+    "url": "https://api.github.com/repos/drift-labs/driftpy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 75
+  },
+  "Ackee-Blockchain/wake": {
+    "url": "https://api.github.com/repos/Ackee-Blockchain/wake",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "Python-Cardano/pycardano": {
+    "url": "https://api.github.com/repos/Python-Cardano/pycardano",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 29
+  },
+  "SuperteamDAO/solathon": {
+    "url": "https://api.github.com/repos/SuperteamDAO/solathon",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "supabase/storage-py": {
+    "url": "https://api.github.com/repos/supabase/storage-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "pcroland/deew": {
+    "url": "https://api.github.com/repos/pcroland/deew",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "sdaqo/anipy-cli": {
+    "url": "https://api.github.com/repos/sdaqo/anipy-cli",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "volitank/nala": {
+    "url": "https://api.github.com/repos/volitank/nala",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "snehilvj/dmc-docs": {
+    "url": "https://api.github.com/repos/snehilvj/dmc-docs",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "software-mansion/starknet.py": {
+    "url": "https://api.github.com/repos/software-mansion/starknet.py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "Nitrokey/nitrokey-app2": {
+    "url": "https://api.github.com/repos/Nitrokey/nitrokey-app2",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "cpcloud/protoletariat": {
+    "url": "https://api.github.com/repos/cpcloud/protoletariat",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "predict-idlab/plotly-resampler": {
+    "url": "https://api.github.com/repos/predict-idlab/plotly-resampler",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "saezlab/decoupler-py": {
+    "url": "https://api.github.com/repos/saezlab/decoupler-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "Boavizta/boaviztapi": {
+    "url": "https://api.github.com/repos/Boavizta/boaviztapi",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "MistEO/Pallas-Bot": {
+    "url": "https://api.github.com/repos/MistEO/Pallas-Bot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "HumanSignal/label-studio-sdk": {
+    "url": "https://api.github.com/repos/HumanSignal/label-studio-sdk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 27
+  },
+  "argoproj-labs/hera": {
+    "url": "https://api.github.com/repos/argoproj-labs/hera",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "tomlin7/biscuit": {
+    "url": "https://api.github.com/repos/tomlin7/biscuit",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 24
+  },
+  "pandora-analysis/pandora": {
+    "url": "https://api.github.com/repos/pandora-analysis/pandora",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "curvefi/curve-assets": {
+    "url": "https://api.github.com/repos/curvefi/curve-assets",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "pinecone-io/pinecone-python-client": {
+    "url": "https://api.github.com/repos/pinecone-io/pinecone-python-client",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "biocypher/biocypher": {
+    "url": "https://api.github.com/repos/biocypher/biocypher",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "redis/redis-om-python": {
+    "url": "https://api.github.com/repos/redis/redis-om-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "CycloneDX/cyclonedx-python-lib": {
+    "url": "https://api.github.com/repos/CycloneDX/cyclonedx-python-lib",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "taosdata/taos-connector-python": {
+    "url": "https://api.github.com/repos/taosdata/taos-connector-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "greenbone/notus-scanner": {
+    "url": "https://api.github.com/repos/greenbone/notus-scanner",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "intility/fastapi-azure-auth": {
+    "url": "https://api.github.com/repos/intility/fastapi-azure-auth",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "TencentBlueKing/bk-user": {
+    "url": "https://api.github.com/repos/TencentBlueKing/bk-user",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "utiasDSL/safe-control-gym": {
+    "url": "https://api.github.com/repos/utiasDSL/safe-control-gym",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 26
+  },
+  "KimigaiiWuyi/GenshinUID": {
+    "url": "https://api.github.com/repos/KimigaiiWuyi/GenshinUID",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "nautobot/nautobot-app-device-lifecycle-mgmt": {
+    "url": "https://api.github.com/repos/nautobot/nautobot-app-device-lifecycle-mgmt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "VOICEVOX/voicevox_engine": {
+    "url": "https://api.github.com/repos/VOICEVOX/voicevox_engine",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "tconbeer/sqlfmt": {
+    "url": "https://api.github.com/repos/tconbeer/sqlfmt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "flashbots/mev-inspect-py": {
+    "url": "https://api.github.com/repos/flashbots/mev-inspect-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "sparckles/Robyn": {
+    "url": "https://api.github.com/repos/sparckles/Robyn",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "SigmaHQ/pySigma": {
+    "url": "https://api.github.com/repos/SigmaHQ/pySigma",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "Aleph-Alpha/aleph-alpha-client": {
+    "url": "https://api.github.com/repos/Aleph-Alpha/aleph-alpha-client",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "maxspahn/gym_envs_urdf": {
+    "url": "https://api.github.com/repos/maxspahn/gym_envs_urdf",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "HibiKier/zhenxun_bot": {
+    "url": "https://api.github.com/repos/HibiKier/zhenxun_bot",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "deepgram/deepgram-python-sdk": {
+    "url": "https://api.github.com/repos/deepgram/deepgram-python-sdk",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "mozilla/translations": {
+    "url": "https://api.github.com/repos/mozilla/translations",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "alandtse/tesla": {
+    "url": "https://api.github.com/repos/alandtse/tesla",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "digitalocean/pydo": {
+    "url": "https://api.github.com/repos/digitalocean/pydo",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "GoogleCloudPlatform/public-datasets-pipelines": {
+    "url": "https://api.github.com/repos/GoogleCloudPlatform/public-datasets-pipelines",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "netdevopsbr/netbox-proxbox": {
+    "url": "https://api.github.com/repos/netdevopsbr/netbox-proxbox",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "socotecio/django-socio-grpc": {
+    "url": "https://api.github.com/repos/socotecio/django-socio-grpc",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "nathom/streamrip": {
+    "url": "https://api.github.com/repos/nathom/streamrip",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 29
+  },
+  "GrandMoff100/HomeAssistantAPI": {
+    "url": "https://api.github.com/repos/GrandMoff100/HomeAssistantAPI",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "santoshlite/EigenLedger": {
+    "url": "https://api.github.com/repos/santoshlite/EigenLedger",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "xnuinside/simple-ddl-parser": {
+    "url": "https://api.github.com/repos/xnuinside/simple-ddl-parser",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "Wasted-Audio/hvcc": {
+    "url": "https://api.github.com/repos/Wasted-Audio/hvcc",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "snok/flake8-type-checking": {
+    "url": "https://api.github.com/repos/snok/flake8-type-checking",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "Yakifo/amqtt": {
+    "url": "https://api.github.com/repos/Yakifo/amqtt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "nautobot/nautobot-app-chatops": {
+    "url": "https://api.github.com/repos/nautobot/nautobot-app-chatops",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 31
+  },
+  "nautobot/nautobot-ansible": {
+    "url": "https://api.github.com/repos/nautobot/nautobot-ansible",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 29
+  },
+  "OpenMined/PipelineDP": {
+    "url": "https://api.github.com/repos/OpenMined/PipelineDP",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "qdrant/qdrant-client": {
+    "url": "https://api.github.com/repos/qdrant/qdrant-client",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "KapJI/capital-gains-calculator": {
+    "url": "https://api.github.com/repos/KapJI/capital-gains-calculator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "danihodovic/celery-exporter": {
+    "url": "https://api.github.com/repos/danihodovic/celery-exporter",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "ugr-sail/sinergym": {
+    "url": "https://api.github.com/repos/ugr-sail/sinergym",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "supabase/auth-py": {
+    "url": "https://api.github.com/repos/supabase/auth-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "cohere-ai/cohere-python": {
+    "url": "https://api.github.com/repos/cohere-ai/cohere-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "userbotindo/Anjani": {
+    "url": "https://api.github.com/repos/userbotindo/Anjani",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "XRPLF/xrpl-py": {
+    "url": "https://api.github.com/repos/XRPLF/xrpl-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "Yuukiy/JavSP": {
+    "url": "https://api.github.com/repos/Yuukiy/JavSP",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "encord-team/encord-client-python": {
+    "url": "https://api.github.com/repos/encord-team/encord-client-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "monarch-initiative/koza": {
+    "url": "https://api.github.com/repos/monarch-initiative/koza",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "Der-Henning/tgtg": {
+    "url": "https://api.github.com/repos/Der-Henning/tgtg",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "getappmap/appmap-python": {
+    "url": "https://api.github.com/repos/getappmap/appmap-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "flobz/psa_car_controller": {
+    "url": "https://api.github.com/repos/flobz/psa_car_controller",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 34
+  },
+  "requests-cache/aiohttp-client-cache": {
+    "url": "https://api.github.com/repos/requests-cache/aiohttp-client-cache",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "specklesystems/specklepy": {
+    "url": "https://api.github.com/repos/specklesystems/specklepy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "truera/trulens": {
+    "url": "https://api.github.com/repos/truera/trulens",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "hacf-fr/renault-api": {
+    "url": "https://api.github.com/repos/hacf-fr/renault-api",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "strawberry-graphql/strawberry-django": {
+    "url": "https://api.github.com/repos/strawberry-graphql/strawberry-django",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "rlberry-py/rlberry": {
+    "url": "https://api.github.com/repos/rlberry-py/rlberry",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Start9Labs/documentation": {
+    "url": "https://api.github.com/repos/Start9Labs/documentation",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "BeryJu/hass-auth-header": {
+    "url": "https://api.github.com/repos/BeryJu/hass-auth-header",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "mxrch/GHunt": {
+    "url": "https://api.github.com/repos/mxrch/GHunt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "zero-to-mastery/ascii-art": {
+    "url": "https://api.github.com/repos/zero-to-mastery/ascii-art",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 59
+  },
+  "Mause/duckdb_engine": {
+    "url": "https://api.github.com/repos/Mause/duckdb_engine",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "dbrattli/Expression": {
+    "url": "https://api.github.com/repos/dbrattli/Expression",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "pyplati/platipy": {
+    "url": "https://api.github.com/repos/pyplati/platipy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "bachya/ecowitt2mqtt": {
+    "url": "https://api.github.com/repos/bachya/ecowitt2mqtt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "yearn/yearn-exporter": {
+    "url": "https://api.github.com/repos/yearn/yearn-exporter",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "lidofinance/lido-oracle": {
+    "url": "https://api.github.com/repos/lidofinance/lido-oracle",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "qua-platform/qua-libs": {
+    "url": "https://api.github.com/repos/qua-platform/qua-libs",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "dynatrace-oss/api-client-python": {
+    "url": "https://api.github.com/repos/dynatrace-oss/api-client-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "networktocode/diffsync": {
+    "url": "https://api.github.com/repos/networktocode/diffsync",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "supabase/supabase-py": {
+    "url": "https://api.github.com/repos/supabase/supabase-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "mcbeet/beet": {
+    "url": "https://api.github.com/repos/mcbeet/beet",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "long2ice/asynch": {
+    "url": "https://api.github.com/repos/long2ice/asynch",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "camunda-community-hub/pyzeebe": {
+    "url": "https://api.github.com/repos/camunda-community-hub/pyzeebe",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "michaelhly/solana-py": {
+    "url": "https://api.github.com/repos/michaelhly/solana-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "sparkmicro/Ki-nTree": {
+    "url": "https://api.github.com/repos/sparkmicro/Ki-nTree",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "celery/pytest-celery": {
+    "url": "https://api.github.com/repos/celery/pytest-celery",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "Chavithra/degiro-connector": {
+    "url": "https://api.github.com/repos/Chavithra/degiro-connector",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "collerek/ormar": {
+    "url": "https://api.github.com/repos/collerek/ormar",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "g-battaglia/kerykeion": {
+    "url": "https://api.github.com/repos/g-battaglia/kerykeion",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "ModOrganizer2/modorganizer-basic_games": {
+    "url": "https://api.github.com/repos/ModOrganizer2/modorganizer-basic_games",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "JnyJny/busylight": {
+    "url": "https://api.github.com/repos/JnyJny/busylight",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "mapping-commons/sssom-py": {
+    "url": "https://api.github.com/repos/mapping-commons/sssom-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "ersilia-os/ersilia": {
+    "url": "https://api.github.com/repos/ersilia-os/ersilia",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "iMicknl/python-overkiz-api": {
+    "url": "https://api.github.com/repos/iMicknl/python-overkiz-api",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "soxoj/maigret": {
+    "url": "https://api.github.com/repos/soxoj/maigret",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 41
+  },
+  "easy-graph/Easy-Graph": {
+    "url": "https://api.github.com/repos/easy-graph/Easy-Graph",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "requirements"
+  },
+  "SeldonIO/MLServer": {
+    "url": "https://api.github.com/repos/SeldonIO/MLServer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "koxudaxi/fastapi-code-generator": {
+    "url": "https://api.github.com/repos/koxudaxi/fastapi-code-generator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "rustyrussell/lnprototest": {
+    "url": "https://api.github.com/repos/rustyrussell/lnprototest",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "labsyspharm/scimap": {
+    "url": "https://api.github.com/repos/labsyspharm/scimap",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 34
+  },
+  "robocin/rSoccer": {
+    "url": "https://api.github.com/repos/robocin/rSoccer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "Unbabel/COMET": {
+    "url": "https://api.github.com/repos/Unbabel/COMET",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "TissueImageAnalytics/tiatoolbox": {
+    "url": "https://api.github.com/repos/TissueImageAnalytics/tiatoolbox",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "setup"
+  },
+  "SimonShi1994/Princess-connection-farm": {
+    "url": "https://api.github.com/repos/SimonShi1994/Princess-connection-farm",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 40
+  },
+  "cloudblue/django-cqrs": {
+    "url": "https://api.github.com/repos/cloudblue/django-cqrs",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "hacf-fr/meteofrance-api": {
+    "url": "https://api.github.com/repos/hacf-fr/meteofrance-api",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "ssrando/ssrando": {
+    "url": "https://api.github.com/repos/ssrando/ssrando",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "cloudblue/django-rql": {
+    "url": "https://api.github.com/repos/cloudblue/django-rql",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "gridhead/nvidia-auto-installer-for-fedora-linux": {
+    "url": "https://api.github.com/repos/gridhead/nvidia-auto-installer-for-fedora-linux",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "supabase/postgrest-py": {
+    "url": "https://api.github.com/repos/supabase/postgrest-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "tortoise/aerich": {
+    "url": "https://api.github.com/repos/tortoise/aerich",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "histolab/histolab": {
+    "url": "https://api.github.com/repos/histolab/histolab",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 37
+  },
+  "apache/skywalking-python": {
+    "url": "https://api.github.com/repos/apache/skywalking-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "meshtastic/python": {
+    "url": "https://api.github.com/repos/meshtastic/python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "mapping-commons/sssom": {
+    "url": "https://api.github.com/repos/mapping-commons/sssom",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "milesmcc/shynet": {
+    "url": "https://api.github.com/repos/milesmcc/shynet",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 27
+  },
+  "Quan666/ELF_RSS": {
+    "url": "https://api.github.com/repos/Quan666/ELF_RSS",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "empicano/aiomqtt": {
+    "url": "https://api.github.com/repos/empicano/aiomqtt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "equinor/tagreader-python": {
+    "url": "https://api.github.com/repos/equinor/tagreader-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "up42/up42-py": {
+    "url": "https://api.github.com/repos/up42/up42-py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 29
+  },
+  "emilhe/dash-extensions": {
+    "url": "https://api.github.com/repos/emilhe/dash-extensions",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "compose-x/ecs_composex": {
+    "url": "https://api.github.com/repos/compose-x/ecs_composex",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 21
+  },
+  "staircase-dev/staircase": {
+    "url": "https://api.github.com/repos/staircase-dev/staircase",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "torchbox/django-pattern-library": {
+    "url": "https://api.github.com/repos/torchbox/django-pattern-library",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "prostomarkeloff/vkwave": {
+    "url": "https://api.github.com/repos/prostomarkeloff/vkwave",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 27
+  },
+  "python-poetry/poetry-core": {
+    "url": "https://api.github.com/repos/python-poetry/poetry-core",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": "workspaces"
+  },
+  "FreeTAKTeam/FreeTakServer": {
+    "url": "https://api.github.com/repos/FreeTAKTeam/FreeTakServer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 51
+  },
+  "PaloAltoNetworks/pan-os-ansible": {
+    "url": "https://api.github.com/repos/PaloAltoNetworks/pan-os-ansible",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 23
+  },
+  "mingrammer/diagrams": {
+    "url": "https://api.github.com/repos/mingrammer/diagrams",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "splunk/pytest-splunk-addon": {
+    "url": "https://api.github.com/repos/splunk/pytest-splunk-addon",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "vprusso/toqito": {
+    "url": "https://api.github.com/repos/vprusso/toqito",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "LeMyst/WikibaseIntegrator": {
+    "url": "https://api.github.com/repos/LeMyst/WikibaseIntegrator",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "corenting/immutabledict": {
+    "url": "https://api.github.com/repos/corenting/immutabledict",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "freedomofpress/dangerzone": {
+    "url": "https://api.github.com/repos/freedomofpress/dangerzone",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "fedora-infra/noggin": {
+    "url": "https://api.github.com/repos/fedora-infra/noggin",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "alexmojaki/futurecoder": {
+    "url": "https://api.github.com/repos/alexmojaki/futurecoder",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 20
+  },
+  "AdnanHodzic/auto-cpufreq": {
+    "url": "https://api.github.com/repos/AdnanHodzic/auto-cpufreq",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "airbus/scikit-decide": {
+    "url": "https://api.github.com/repos/airbus/scikit-decide",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 18
+  },
+  "SecKatie/ha-wyzeapi": {
+    "url": "https://api.github.com/repos/SecKatie/ha-wyzeapi",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "sanderland/katrain": {
+    "url": "https://api.github.com/repos/sanderland/katrain",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "login-securite/lsassy": {
+    "url": "https://api.github.com/repos/login-securite/lsassy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "xaviml/controllerx": {
+    "url": "https://api.github.com/repos/xaviml/controllerx",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "godaddy/tartufo": {
+    "url": "https://api.github.com/repos/godaddy/tartufo",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "thelastpickle/cassandra-medusa": {
+    "url": "https://api.github.com/repos/thelastpickle/cassandra-medusa",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 30
+  },
+  "codemagic-ci-cd/cli-tools": {
+    "url": "https://api.github.com/repos/codemagic-ci-cd/cli-tools",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 9
+  },
+  "grafana/django-saml2-auth": {
+    "url": "https://api.github.com/repos/grafana/django-saml2-auth",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "frenck/python-wled": {
+    "url": "https://api.github.com/repos/frenck/python-wled",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "dry-python/classes": {
+    "url": "https://api.github.com/repos/dry-python/classes",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 20
+  },
+  "polygon-io/client-python": {
+    "url": "https://api.github.com/repos/polygon-io/client-python",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 14
+  },
+  "syrupy-project/syrupy": {
+    "url": "https://api.github.com/repos/syrupy-project/syrupy",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2
+  },
+  "danielfernau/unifi-protect-video-downloader": {
+    "url": "https://api.github.com/repos/danielfernau/unifi-protect-video-downloader",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "danielgtaylor/python-betterproto": {
+    "url": "https://api.github.com/repos/danielgtaylor/python-betterproto",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 6
+  },
+  "PennyLaneAI/qml": {
+    "url": "https://api.github.com/repos/PennyLaneAI/qml",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 8
+  },
+  "thegeeklab/ansible-doctor": {
+    "url": "https://api.github.com/repos/thegeeklab/ansible-doctor",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "Huluti/Curtail": {
+    "url": "https://api.github.com/repos/Huluti/Curtail",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  }
+}

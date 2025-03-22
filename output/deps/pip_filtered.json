@@ -1,0 +1,274 @@
+{
+  "JuanBindez/pytubefix": {
+    "url": "https://api.github.com/repos/JuanBindez/pytubefix",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 33
+  },
+  "h2oai/h2o-llmstudio": {
+    "url": "https://api.github.com/repos/h2oai/h2o-llmstudio",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 59
+  },
+  "grafana/grafana-ansible-collection": {
+    "url": "https://api.github.com/repos/grafana/grafana-ansible-collection",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 3
+  },
+  "spdx/ntia-conformance-checker": {
+    "url": "https://api.github.com/repos/spdx/ntia-conformance-checker",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 1
+  },
+  "Drazzilb08/daps": {
+    "url": "https://api.github.com/repos/Drazzilb08/daps",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 10
+  },
+  "repository-service-tuf/repository-service-tuf": {
+    "url": "https://api.github.com/repos/repository-service-tuf/repository-service-tuf",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "d3fend/d3fend-ontology": {
+    "url": "https://api.github.com/repos/d3fend/d3fend-ontology",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "decompiler-explorer/decompiler-explorer": {
+    "url": "https://api.github.com/repos/decompiler-explorer/decompiler-explorer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 7
+  },
+  "cloudwithax/pomice": {
+    "url": "https://api.github.com/repos/cloudwithax/pomice",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "GoogleCloudPlatform/gcpdiag": {
+    "url": "https://api.github.com/repos/GoogleCloudPlatform/gcpdiag",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 36
+  },
+  "StackGuardian/tirith": {
+    "url": "https://api.github.com/repos/StackGuardian/tirith",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "thingsapi/things.py": {
+    "url": "https://api.github.com/repos/thingsapi/things.py",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 13
+  },
+  "typesense/typesense-docsearch-scraper": {
+    "url": "https://api.github.com/repos/typesense/typesense-docsearch-scraper",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  },
+  "meeb/tubesync": {
+    "url": "https://api.github.com/repos/meeb/tubesync",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "chiefonboarding/ChiefOnboarding": {
+    "url": "https://api.github.com/repos/chiefonboarding/ChiefOnboarding",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 28
+  },
+  "BerkeleyHCI/PolymorphicBlocks": {
+    "url": "https://api.github.com/repos/BerkeleyHCI/PolymorphicBlocks",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "creativecommons/cc-legal-tools-app": {
+    "url": "https://api.github.com/repos/creativecommons/cc-legal-tools-app",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 17
+  },
+  "google/ml-compiler-opt": {
+    "url": "https://api.github.com/repos/google/ml-compiler-opt",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "scito/extract_otp_secrets": {
+    "url": "https://api.github.com/repos/scito/extract_otp_secrets",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 20
+  },
+  "SeisoLLC/easy_infra": {
+    "url": "https://api.github.com/repos/SeisoLLC/easy_infra",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 11
+  },
+  "NOAA-OWP/inundation-mapping": {
+    "url": "https://api.github.com/repos/NOAA-OWP/inundation-mapping",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 49
+  },
+  "vas3k/vas3k.club": {
+    "url": "https://api.github.com/repos/vas3k/vas3k.club",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 16
+  },
+  "zenodo/zenodo-rdm": {
+    "url": "https://api.github.com/repos/zenodo/zenodo-rdm",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 5
+  },
+  "jackdewinter/pymarkdown": {
+    "url": "https://api.github.com/repos/jackdewinter/pymarkdown",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 31
+  },
+  "looker-open-source/looker_deployer": {
+    "url": "https://api.github.com/repos/looker-open-source/looker_deployer",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 12
+  },
+  "vranki/hemppa": {
+    "url": "https://api.github.com/repos/vranki/hemppa",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "alexta69/metube": {
+    "url": "https://api.github.com/repos/alexta69/metube",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 4
+  },
+  "quark-engine/quark-engine": {
+    "url": "https://api.github.com/repos/quark-engine/quark-engine",
+    "lastCheckedAt": null,
+    "projectType": [
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 19
+  },
+  "panther-labs/panther-analysis": {
+    "url": "https://api.github.com/repos/panther-labs/panther-analysis",
+    "lastCheckedAt": null,
+    "projectType": [
+      "POETRY",
+      "PIP"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 15
+  }
+}
